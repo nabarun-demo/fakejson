@@ -1,9 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "lines": [
+    {"name": "www.site1.com", "upload": 200, "download": 200, "total": 400}
   ],
   "profile": {
     "name": "typicode"
