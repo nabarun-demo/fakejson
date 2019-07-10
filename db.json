@@ -1,6 +1,12 @@
 {
   "lines": [
-    {"name": "www.site1.com", "upload": 200, "download": 200, "total": 400}
+    {
+      "id": 1,
+      "name": "www.site1.com",
+      "upload": 200,
+      "download": 200,
+      "total": 400
+    }
   ],
   "profile": {
     "name": "typicode"
