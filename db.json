@@ -1,9 +1,9 @@
 {
-  "lines": [
-    {"name": "www.site1.com", "upload": 200, "download": 41, "total": 400},
-    {"name": "www.site2.com", "upload": 250, "download": 34, "total": 400},
-    {"name": "www.site3.com", "upload": 300, "download": 657, "total": 400},
-    {"name": "www.site4.com", "upload": 350, "download": 21, "total": 400}
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
